@@ -37,7 +37,7 @@ Speaker: Ning Wang, University of Surrey
 
 1.2 Research and Development Advances in Routing for “Future Internet” (25 mins)
 
-Speaker: Adrian Farrel, old dog consulting
+Speaker: Adrian Farrel, Old Dog Consulting
 
 1.3 TBD (25 mins)
 
