@@ -29,8 +29,9 @@ We welcome any proposals and discussions to that end.
 
 **Part1: Deployment incentives, interworking, and gateways between networks with different addressing semantics** 
 - Various networks, such as IoT networks, industry networks, satellite networks, etc.
-- domain boundary division related to different semantics
-- new requirements and impacts to the control and forwarding plane
+- Differient Semantics Type 
+- Domain boundary division related to different semantics
+- New requirements and impacts to the control and forwarding plane
 
 1.1 Space-Terrestrial Network Integration: Gap Analysis on Key Technical Issues (25 mins)
 
