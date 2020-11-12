@@ -43,6 +43,6 @@ Speaker: Adrian Farrel, Old Dog Consulting
 
 Speaker: Nirmala Shenoy, RIT
 
-**Part2: Open Discussion: How to move forward?**
+**Part2: Open Discussion: How to move forward? (25 mins)**
 
-Leader: TBD (25 mins)
+Moderators: Dirk Trossen, Dirk Trossen
