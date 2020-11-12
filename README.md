@@ -45,4 +45,4 @@ Speaker: Nirmala Shenoy, RIT
 
 **Part2: Open Discussion: How to move forward? (25 mins)**
 
-Moderators: Dirk Trossen, Dirk Trossen
+Moderators: Dirk Trossen, Toerless Eckert
