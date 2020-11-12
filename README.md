@@ -29,7 +29,7 @@ We welcome any proposals and discussions to that end.
 
 **Part1: Deployment incentives, interworking, and gateways between networks with different addressing semantics** 
 - Various networks, such as IoT networks, industry networks, satellite networks, etc.
-- Challenges/Problems to Internet Protocols, such as Differient semantic for different scenario, domain boundary division related to different semantics, new requirements and impacts to the control and forwarding plane.
+- Challenges/Problems to Internet Protocols, such as differient semantics for various scenarios, domain boundary division related to different semantics, new requirements and impacts to the control and forwarding plane.
 
 1.1 Space-Terrestrial Network Integration: Gap Analysis on Key Technical Issues (25 mins)
 
