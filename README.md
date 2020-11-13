@@ -31,15 +31,15 @@ We welcome any proposals and discussions to that end.
 - Various networks, such as IoT networks, industry networks, satellite networks, etc.
 - Challenges/Problems to Internet Protocols, such as different semantics for various scenarios, domain boundary division related to different semantics, new requirements and impacts to the control and forwarding plane.
 
-1.1 Space-Terrestrial Network Integration: Gap Analysis on Key Technical Issues (25 mins)
+1.1 Space-Terrestrial Network Integration: Gap Analysis on Key Technical Issues (20 mins)
 
 Speaker: Ning Wang, University of Surrey
 
-1.2 Research and Development Advances in Routing for “Future Internet” (25 mins)
+1.2 Research and Development Advances in Routing for “Future Internet” (20 mins)
 
 Speaker: Adrian Farrel, Old Dog Consulting
 
-1.3 TBD (25 mins)
+1.3 An Expedited Internet Bypass Protocol– Improving Internet Performance (20 mins)
 
 Speaker: Nirmala Shenoy, RIT
 
