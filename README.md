@@ -7,11 +7,11 @@ Time:  18/11/2020, 12:00 - 13:30 UTC (extend to 14:00 if needed)
                                   
                                   Participants can join up to 15 minutes earlier, e.g.: for webex testing
 
-Where: 	https://fipe-meeting.my.webex.com/fipe-meeting.my/j.php?MTID=mebc4b0f4d49f562de6fef8c1753e60d7
+Where: 	https://fipe-meeting.my.webex.com/fipe-meeting.my/j.php?MTID=m68956fdd816deb1b2656ebbaf13f7b43
 
-Webex Meeting number (access code): 1751895640 
+Webex Meeting number (access code): 175 237 6336
 
-Webex Meeting password: ubP38hPKnb3
+Webex Meeting password: FIPE2020
 
 Etherpad URL: https://etherpad.wikimedia.org/p/v109-fipe-side-meeting
 
