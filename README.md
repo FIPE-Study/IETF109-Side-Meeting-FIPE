@@ -27,7 +27,7 @@ We welcome any proposals and discussions to that end.
 
 ### **Agenda**
 
-**Part1: Potential scenarios with different semantics, challenges/Problems to Internet Protocols** 
+**Part1: Potential scenarios with different semantics, challenges/problems to Internet Protocols** 
 - Potential scenarios with different semantics, such as IoT networks, industry networks, satellite networks, etc.
 - Challenges/Problems to Internet Protocols, such as different semantic type, domain boundary division related to different semantics, new requirements and impacts to the control and forwarding plane
 
