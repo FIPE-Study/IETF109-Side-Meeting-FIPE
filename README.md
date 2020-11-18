@@ -35,13 +35,13 @@ We welcome any proposals and discussions to that end.
 
 Speaker: Ning Wang, University of Surrey
 
-1.2 Research and Development Advances in Routing for “Future Internet” (25 mins)
-
-Speaker: Adrian Farrel, Old Dog Consulting
-
-1.3 An Expedited Internet Bypass Protocol– Improving Internet Performance (25 mins)
+1.2 An Expedited Internet Bypass Protocol– Improving Internet Performance (25 mins)
 
 Speaker: Nirmala Shenoy, RIT
+
+1.3 Research and Development Advances in Routing for “Future Internet” (25 mins)
+
+Speaker: Adrian Farrel, Old Dog Consulting
 
 **Part2: Open Discussion: How to move forward? (30 mins)**
 
