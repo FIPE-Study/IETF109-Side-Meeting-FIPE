@@ -27,22 +27,22 @@ We welcome any proposals and discussions to that end.
 
 ### **Agenda**
 
-**Part1: Potential scenarios with different semantics, challenges/problems to Internet Protocols** 
+**Potential scenarios with different semantics, challenges/problems to Internet Protocols** 
 - Potential scenarios with different semantics, such as IoT networks, industry networks, satellite networks, etc.
 - Challenges/Problems to Internet Protocols, such as different semantic type, domain boundary division related to different semantics, new requirements and impacts to the control and forwarding plane
 
-1.1 Space-Terrestrial Network Integration: Gap Analysis on Key Technical Issues (25 mins)
+1. Space-Terrestrial Network Integration: Gap Analysis on Key Technical Issues (25 mins)
 
 Speaker: Ning Wang, University of Surrey
 
-1.2 An Expedited Internet Bypass Protocol– Improving Internet Performance (25 mins)
+2. An Expedited Internet Bypass Protocol– Improving Internet Performance (25 mins)
 
 Speaker: Nirmala Shenoy, RIT
 
-1.3 Research and Development Advances in Routing for “Future Internet” (25 mins)
+3. Research and Development Advances in Routing for “Future Internet” (25 mins)
 
 Speaker: Adrian Farrel, Old Dog Consulting
 
-**Part2: Open Discussion: How to move forward? (30 mins)**
+4. Open Discussion: How to move forward? (30 mins)**
 
 Moderators: Dirk Trossen, Toerless Eckert
